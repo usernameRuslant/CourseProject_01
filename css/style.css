@@ -1,0 +1,11 @@
+.navbar-toggler:hover{
+  background-color: #e6e6e6;
+}
+.card{
+  width: 340px;
+}
+@media (max-width: 380px){
+  .card{
+    width: 300px;
+  }
+}
